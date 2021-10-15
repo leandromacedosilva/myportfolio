@@ -5,19 +5,19 @@
     background-color: rgb(36, 34, 34);
 }
 
-.nav-bar li{
-
+.nav-bar li {
     display: inline-block;
 }
 
 .nav-bar a {
-    margin: 100px;
-    
     text-decoration: none;
     list-style-type: none;
     color: white;
 }
 
-.portfolio-name {
+.flex-container {
+    display: flex;
     color: white;
 }
+
+
