@@ -58,10 +58,12 @@
 .desc-about {
     margin: 35px;
     font-size: 20px;
+    text-align: center;
 }
 
 .aside-flex-container {
     display: flex;
+    justify-content: space-evenly;
     gap: 20px;
     color: white;
     border-radius: 50%;
