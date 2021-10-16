@@ -82,3 +82,8 @@
     color: white;
     font-size: 40px;
 }
+
+.wid-container {
+    display: flex;
+    gap: 10px;
+}
