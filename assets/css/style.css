@@ -57,3 +57,7 @@
 .desc-about {
     font-size: 12px;
 }
+
+.aside-flex-container {
+    display: flex;
+}
