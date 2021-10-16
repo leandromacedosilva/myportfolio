@@ -140,6 +140,11 @@
 .item-ft {
     margin: 7%;
     text-align: center;
-    font-size: 10px;
+    font-size: 13px;
     color: white;
+}
+
+.item-ft a {
+    text-decoration: none;
+    list-style-type: none;
 }
