@@ -123,3 +123,23 @@
     color: white;
     font-size: 40px;
 }
+
+.item-form {
+    text-align: center;
+}
+
+.item-message {
+    margin: 25px;
+    text-align: center;
+}
+
+.item-btn-msg {
+    margin: 12px;
+}
+
+.item-ft {
+    margin: 7%;
+    text-align: center;
+    font-size: 10px;
+    color: white;
+}
