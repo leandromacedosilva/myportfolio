@@ -93,3 +93,8 @@
     text-decoration: none;
     list-style-type: none;
 }
+
+.ms-container {
+    display: flex;
+    justify-content: center;
+}
