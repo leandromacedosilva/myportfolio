@@ -94,8 +94,17 @@
     list-style-type: none;
 }
 
-.ms-container {
+.ms-container div {
+    margin: 40px;
+    
+    display: inline-block;
+}
+
+.item-sk {
+    margin: 45px;
     display: flex;
-    gap: 20px;
-    justify-items: center;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+    font-size: 35px;
 }
