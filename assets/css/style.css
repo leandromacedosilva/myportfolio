@@ -85,5 +85,11 @@
 
 .wid-container {
     display: flex;
+    justify-content: center;
     gap: 10px;
+}
+
+.wid-container a {
+    text-decoration: none;
+    list-style-type: none;
 }
