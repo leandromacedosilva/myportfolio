@@ -41,3 +41,15 @@
     height: 250px;
     border-radius: 50%;
 }
+
+.txt-about {
+    color: white;
+}
+
+.tit-bout {
+    font-size: 20px;
+}
+
+.desc-about {
+    font-size: 12px;
+}
