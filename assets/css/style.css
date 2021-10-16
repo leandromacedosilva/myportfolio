@@ -43,11 +43,15 @@
 }
 
 .txt-about {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
     color: white;
 }
 
-.tit-bout {
-    font-size: 20px;
+.tit-about {
+    font-size: 35px;
+    justify-content: center;
 }
 
 .desc-about {
