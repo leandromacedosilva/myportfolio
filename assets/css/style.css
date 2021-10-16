@@ -60,4 +60,12 @@
 
 .aside-flex-container {
     display: flex;
+    gap: 20px;
+    color: white;
+    border-radius: 50%;
+}
+
+.item-img {
+    background-color: crimson;
+    border-bottom: 2vh;
 }
